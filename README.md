@@ -20,6 +20,8 @@ Take Away
 
 ###### References
 
+[qmk_firmware/users/callum at master · callum-oakley/qmk_firmware · GitHub](https://github.com/callum-oakley/qmk_firmware/tree/master/users/callum)
+
 [Oryx: main.oskar](https://configure.zsa.io/voyager/layouts/pzVjX/latest/2)
 
 [GitHub - Ben Vallack's 34-QMK-Ferris-Sweep](https://github.com/benvallack/34-QMK-Ferris-Sweep/blob/main/keymap.c)
