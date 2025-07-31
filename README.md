@@ -1,8 +1,8 @@
 # My Keyboards Layouts
 
-### [Default Voyager Layout](https://configure.zsa.io/voyager/layouts/default/latest/0/24/tour)
+### 1/5/25
 
-Take Away
+###### [Default Voyager Layout](https://configure.zsa.io/voyager/layouts/default/latest/0/24/tour)
 
 - Nav's layer key feels better on the left thumb key
 
@@ -17,6 +17,24 @@ Take Away
 - Needs home-row modifers
 
 - Enter causes discomfort
+
+###### [Default .NET Layout](https://configure.zsa.io/voyager/layouts/XlOxg/NoyKVw/0)
+
+- Momentary layer toggle is not comfortable for every layer
+
+- Enter on the bottom pinky is really comfortable
+
+### 9/5/25
+
+###### [Default .NET Layout](https://configure.zsa.io/voyager/layouts/XlOxg/NoyKVw/0)
+
+- One-shot modifers are AMAZING
+
+### 9/6/25
+
+###### [Default .NET Layout](https://configure.zsa.io/voyager/layouts/XlOxg/NoyKVw/0)
+
+- Modifers keys just below the home row is just the right location
 
 ###### References
 
