@@ -44,6 +44,8 @@
 
 [GitHub - Ben Vallack's 34-QMK-Ferris-Sweep](https://github.com/benvallack/34-QMK-Ferris-Sweep/blob/main/keymap.c)
 
+[Github - voyager_28k_rev20241117](https://configure.zsa.io/voyager/layouts/KW3W7/latest/0)
+
 [GitHub - getreuer's QMK Keymap](https://github.com/getreuer/qmk-keymap?tab=readme-ov-file)
 
 [GitHub - urob's (34-keys, Corneish Zen, Planck)](https://github.com/urob/zmk-config)
